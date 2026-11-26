@@ -4,7 +4,7 @@
 
 ## 처음 설치
 
-1. [최신 버전 다운로드](https://github.com/gmlqo86-sudo/up-abyss-releases/releases/latest)를 엽니다.
+1. [최신 버전 다운로드](https://github.com/lumi-up-sudo/up-abyss-releases/releases/latest)를 엽니다.
 2. 첨부 파일 중 **up-abyss-버전.zip**을 받습니다.
 3. 압축을 **모두 풀고**, 폴더 안의 **up어비스.exe**를 실행합니다. 함께 들어 있는 runtime·receiver 폴더도 필요합니다.
 4. 설정에서 서버와 현재 A/B/C 그룹을 선택합니다.
