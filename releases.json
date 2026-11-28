@@ -19,5 +19,12 @@
         "Version":  "0.15.2",
         "Size":  12745381,
         "Sha256":  "8801db0228e1cbac5e7e406f029f090e8014641d744a78457e18d47e8cdac622"
+    },
+    {
+        "Preview":  false,
+        "Url":  "https://github.com/lumi-up-sudo/up-abyss-releases/releases/download/v0.15.3/up-abyss-update.zip",
+        "Version":  "0.15.3",
+        "Size":  12747727,
+        "Sha256":  "b5260e42754c8ea9fff83561ae89994572a402bbcf05be053571c9140111f37b"
     }
 ]
